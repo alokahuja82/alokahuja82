@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alokahuja82
 - 👀 I’m interested in programming, technologies and development.
-- 🌱 I’m currently learning MITS, Gwalior.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I have completed my BTech from MITS, Gwalior.
 - 📫 How to reach me rahulahujara82@gmail.com
 
 <!---
